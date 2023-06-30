@@ -1,2 +1,2 @@
 # ElesisBot
-A bot that is made for something(?)
+A Discord bot that is made for something(?)
